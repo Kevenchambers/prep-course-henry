@@ -1,2 +1,1 @@
-# prep-course-henry
-primer repositorio de github
+este proyecto es una prueba de como qcrear un repositorio 
